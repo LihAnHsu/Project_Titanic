@@ -1,5 +1,6 @@
 # Project_Titanic
 My first ML project on Kaggle
+
 This project aims to predict the survival chance of passenger by several features (pclass, gender, age...)
 
 Finding:
